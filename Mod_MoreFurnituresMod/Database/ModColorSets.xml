@@ -1,0 +1,17 @@
+<Database>
+    <GameDBColorSet>
+       <Colors>
+    <!-- Templete -->
+	<!--GameDBColorSet ID="COLOR_SET_BUILDING_OBJECT_JM_SLP_***">
+        <Colors>
+            <GameDBColor> <R>250</R>  <G>240</G>  <B>230</B>  </GameDBColor> 
+            <GameDBColor> <R>000</R>  <G>250</G>  <B>154</B>  </GameDBColor>	
+            <GameDBColor> <R>135</R>  <G>206</G>  <B>250</B>  </GameDBColor>	
+            <GameDBColor> <R>255</R>  <G>165</G>  <B>079</B>  </GameDBColor>	
+            <GameDBColor> <R>186</R>  <G>186</G>  <B>186</B>  </GameDBColor>	
+        </Colors>
+	</GameDBColorSet-->
+	
+       </Colors>
+	</GameDBColorSet>
+</Database>

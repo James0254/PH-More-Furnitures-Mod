@@ -1,0 +1,35 @@
+<Database>
+	<!--GameDBObject ID="ADDON_MOD_JM_SLP_***">
+        <AbbreviationLocID>OBJECT_JM_SLP_***_DESCRIPTION</AbbreviationLocID>
+        <TextureRef>ASSET_TEX_JM_SLP_***_OBJECTS_TALL</TextureRef>
+        <TextureAtlasLayout>LAYOUT_**_X_**</TextureAtlasLayout>
+        <SpriteShape>SHAPE_1_X_2</SpriteShape>
+        <TextureIDNW>0</TextureIDNW>
+        <TextureIDNE>0</TextureIDNE>
+        <TextureIDSE>0</TextureIDSE>
+        <TextureIDSW>0</TextureIDSW>
+        <CustomIconAssetRef>ASSET_TEX_***_CUSTOM_ICON</CustomIconAssetRef>
+		
+		
+        <PlacedToEdge>false</PlacedToEdge>
+        <AttachedToWall>false</AttachedToWall>
+        <AllowsObjectsOnWallsAbove>true</AllowsObjectsOnWallsAbove>
+        <NotInteractable>true</NotInteractable>
+
+          <Tags>
+            <Tag>decoration</Tag>
+            <Tag>ui_decorations</Tag>
+			<Tag>ui_***</Tag>
+        </Tags>
+
+        <LightLevelRed>70</LightLevelRed>
+        <LightLevelGreen>50</LightLevelGreen>
+        <LightLevelBlue>50</LightLevelBlue>
+        <LightRange>10</LightRange>
+        <LightIsDirectional>false</LightIsDirectional>
+        <LightAutomatic>false</LightAutomatic>
+
+        <Cost>150</Cost>
+        <ColorSetRef>COLOR_SET_BUILDING_OBJECT_SMALL_LAMP</ColorSetRef>
+    </GameDBObject-->
+</Database>
