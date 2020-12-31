@@ -1,57 +1,18 @@
 <Database>
-    <GameDBStringTable ID="LOC_EN_ADDON_MOD_BOWELAS_WAITING_ROOM">
+    <GameDBStringTable ID="LOC_EN_OBJECTS_JM_SLP_MOREFURNITUREMOD">
 
         <LanguageCode>en</LanguageCode>
         <LanguageNameLocalized>English</LanguageNameLocalized>
 
         <Contributors>
-            <Name>Bowelas</Name>
+            <Name>Sleepy068</Name>
+			<Name>James B</Name>
         </Contributors>
 
          <LocalizedStrings>
-            <GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_WAITING_ROOM</LocID>            		    <Text>Objects: Waiting Room</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_ROUTER</LocID>            		<Text>WLAN-Router</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_ROUTER_DESCRIPTION</LocID>            		<Text>Wireless Lan Network Access Point - gives all smartphone users in the area access to the wonderful world of the Internet.</Text>  </GameDBLocalizedString>
-        
-            <GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_BROCHURESTAND</LocID>            		<Text>Brochures</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_BROCHURESTAND_DESCRIPTION</LocID>            		<Text>A stand with interesting brochures and advertising.</Text>  </GameDBLocalizedString>
-        
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_WM-TV</LocID>            		<Text>TV (wall)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_WM-TV_DESCRIPTION</LocID>            		<Text>A television, which was hopefully attached to a wall with enough dowels.</Text>  </GameDBLocalizedString>
-      
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_SMALL_COFFEE_TABLE</LocID>            		<Text>Small Coffee Table</Text>  </GameDBLocalizedString>
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_SMALL_COFFEE_TABLE_REVERSED</LocID>            		<Text>Small Coffee Table colorable</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_SMALL_COFFEE_TABLE_DESCRIPTION</LocID>            		<Text>A structure made of various materials, which serves to place things on its surface.</Text>  </GameDBLocalizedString>
-      
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_SMALL_LAMP</LocID>            		<Text>Smal Lamp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_SMALL_LAMP_DESCRIPTION</LocID>            		<Text>Makes light.</Text>  </GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_FLOOR_LAMP</LocID>            		<Text>Floor Lamp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_FLOOR_LAMP_DESCRIPTION</LocID>            		<Text>Makes light from a little higher up.</Text>  </GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_MAGAZINE_RACK</LocID>            		<Text>Magazines</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_MAGAZINE_RACK_DESCRIPTION</LocID>            		<Text>A shelf with legible glossy booklets.</Text>  </GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_BONBONS</LocID>            		<Text>Bonbons</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_BONBONS_DESCRIPTION</LocID>            		<Text>Stress reliever sweets.</Text>  </GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_SWR</LocID>            		<Text>Sign Waiting Room</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_SWR_DESCRIPTION</LocID>            		<Text>Sign for Waiting Room.</Text>  </GameDBLocalizedString>
-      
-			<GameDBLocalizedString>      <LocID>ADDON_OBJECT_DECAL_BOWELAS_WAITING_AREA</LocID>            		<Text>Waiting Area</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ADDON_OBJECT_DECAL_BOWELAS_WAITING_ROOM</LocID>            		<Text>Waiting Room</Text>  </GameDBLocalizedString>
-			<GameDBLocalizedString>      <LocID>ADDON_DECAL_WAITING_AREA</LocID>            		<Text>Waiting Area</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ADDON_DECAL_WAITING_ROOM</LocID>            		<Text>Waiting Room</Text>  </GameDBLocalizedString>
-			
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_WARDROBE</LocID>            		<Text>Wardrobe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_WARDROBE_DESCRIPTION</LocID>            		<Text>A place for clothes.</Text>  </GameDBLocalizedString>
-	
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_UMBRELLA_STAND</LocID>            		<Text>Umbrella Stand</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_UMBRELLA_STAND_DESCRIPTION</LocID>            		<Text>A bucket for umbrellas.</Text>  </GameDBLocalizedString>
-	
-			<GameDBLocalizedString>      <LocID>ADDON_MOD_BOWELAS_WATER_COOLER</LocID>            		<Text>Water Cooler</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_BOWELAS_WATER_COOLER_DESCRIPTION</LocID>            		<Text>A delivery system from H2O.</Text>  </GameDBLocalizedString></LocalizedStrings>
-        
+            <GameDBLocalizedString>      <LocID>ADDON_MOD_JM_SLP_***</LocID>            		<Text></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_JM_SLP_***_DESCRIPTION</LocID>            		<Text>.</Text>  </GameDBLocalizedString>
+         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
