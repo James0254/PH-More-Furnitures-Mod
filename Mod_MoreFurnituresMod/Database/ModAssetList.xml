@@ -1,26 +1,23 @@
 <Database>
 
-    <GameDBAsset ID="ASSET_TEX_BOWELAS_ROUTER_OBJECTS_SMALL">   <Type>TEXTURE_OBJECTS</Type>   <File>MOD_ROOT/mod_objects_small_atlas.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_FLOOR_LAMP_OBJECTS_TALL">   <Type>TEXTURE_OBJECTS</Type>   <File>MOD_ROOT/mod_objects_tall_atlas.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_MOD_NAME_DECALS_WAITING_ROOM"> 	<Type>TEXTURE_OBJECTS</Type> 	<File>MOD_ROOT/mod_decals_2048_atlas.png</File> </GameDBAsset>
-	
-    <!-- This icon is used for most objects in this mod example, it's easier to identify them in game this way -->
-    <!-- For real mods each object can of course have its own preview icon -->
-    <GameDBAsset ID="ASSET_TEX_BOWELAS_ROUTER_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_router_icon.png</File> </GameDBAsset>
-    <GameDBAsset ID="ASSET_TEX_BOWELAS_BROCHURESTAND_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_brochures_icon.png</File> </GameDBAsset>
-    <GameDBAsset ID="ASSET_TEX_BOWELAS_WM_TV_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_wallmountedtv_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_SMALL_COFFEE_TABLE_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_small_coffee_table_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_SMALL_LAMP_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_small_lamp_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_FLOOR_LAMP_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_floor_lamp.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_MAGAZINE_RACK_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_magazine_rack_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_SMALL_COFFEE_TABLE_REVERSED_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_small_coffee_table_reversed_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_BONBONS_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_bonbons_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_SWR_CUSTOM_ICON">     <Type>TEXTURE_CUSTOM_SPRITE</Type>  <File>MOD_ROOT/mod_waiting_room_icon_swr.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_DECAL_WAITING_AREA_CUSTOM_ICON"> 				   <Type>TEXTURE_CUSTOM_SPRITE</Type> 			  <File>MOD_ROOT/mod_decal_waiting_area_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_DECAL_WAITING_ROOM_CUSTOM_ICON"> 				   <Type>TEXTURE_CUSTOM_SPRITE</Type> 			  <File>MOD_ROOT/mod_decal_waiting_room_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_WARDROBE_CUSTOM_ICON"> 				   <Type>TEXTURE_CUSTOM_SPRITE</Type> 			  <File>MOD_ROOT/mod_wardrobe_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_UMBRELLA_STAND_CUSTOM_ICON"> 				   <Type>TEXTURE_CUSTOM_SPRITE</Type> 			  <File>MOD_ROOT/mod_small_umbrella_stand_icon.png</File> </GameDBAsset>
-	<GameDBAsset ID="ASSET_TEX_BOWELAS_WATER_COOLER_CUSTOM_ICON"> 				   <Type>TEXTURE_CUSTOM_SPRITE</Type> 			  <File>MOD_ROOT/mod_water_cooler_icon.png</File> </GameDBAsset>
-	
+<!-- 
+### Asset ### 
+This section adds my custom icons, decals, etc to the game. -->
+
+<GameDBAsset ID="ASSET_TEX_JM_SLP_OBJECTS_TALL">           
+    <Type>TEXTURE_OBJECTS</Type>      
+    <File>MOD_ROOT/mod_objects_tall_atlas.png</File> 
+</GameDBAsset>
+
+<GameDBAsset ID="ASSET_TEX_JM_SLP_OBJECTS_SHORT">           
+    <Type>TEXTURE_OBJECTS</Type>      
+    <File>MOD_ROOT/mod_objects_short_atlas.png</File> 
+</GameDBAsset>
+
+<!--GameDBAsset ID="ASSET_JM_SLP_***">   
+	<Type>TEXTURE_CUSTOM_SPRITE</Type>               
+	<File>MOD_ROOT/mod_object_jm_slp_***.png</File> 
+</GameDBAsset-->
+
 </Database>
 
