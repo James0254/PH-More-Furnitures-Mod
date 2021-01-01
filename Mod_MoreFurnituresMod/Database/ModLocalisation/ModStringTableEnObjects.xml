@@ -11,8 +11,8 @@
 
          <LocalizedStrings>
             
-            <GameDBLocalizedString>      <LocID>ADDON_MOD_JM_SLP_***</LocID>            		<Text></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OBJECT_JM_SLP_***_DESCRIPTION</LocID>            		<Text>.</Text>  </GameDBLocalizedString>
+            <!--GameDBLocalizedString>      <LocID>ADDON_MOD_JM_SLP_***</LocID>            		<Text></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OBJECT_JM_SLP_***_DESCRIPTION</LocID>            		<Text>.</Text>  </GameDBLocalizedString-->
          </LocalizedStrings>
     </GameDBStringTable>
 </Database>
